@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is 7099-8767
-
- Directory of C:\Users\sanagani\Desktop\MyProject
-
-16/09/2019  20:52    <DIR>          .
-16/09/2019  20:52    <DIR>          ..
-16/09/2019  20:52                 0 Test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  173,702,627,328 bytes free
+Changed
